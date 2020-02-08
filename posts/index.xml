@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on tworks55 site</title>
@@ -8,7 +7,7 @@
     <language>ja</language>
     <lastBuildDate>Mon, 03 Feb 2020 00:18:53 +0900</lastBuildDate>
     
-	<atom:link href="https://tworks55.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tworks55.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,9 @@
       <pubDate>Mon, 03 Feb 2020 00:18:53 +0900</pubDate>
       
       <guid>https://tworks55.github.io/posts/my-first-post/</guid>
-      <description>Hello</description>
+      <description>Hello
+My name is twork55.
+ hello good bye  Hello &amp;gt; c ~/go/src/github.com/tworks55/go-server-server $ ls api go main.go ~/go/src/github.com/tworks55/go-server-server $ go main.go go main.go: unknown command Run &amp;#39;go help&amp;#39; for usage. ~/go/src/github.com/tworks55/go-server-server $ go run main.go unexpected directory layout: import path: _/Users/matstet/go/src/github.com/tworks55/go-server-server/go root: /Users/matstet/go/src dir: /Users/matstet/go/src/github.com/tworks55/go-server-server/go expand root: /Users/matstet/go expand dir: /Users/matstet/go/src/github.com/tworks55/go-server-server/go separator: / ~/go/src/github.com/tworks55/go-server-server $ l bash: l: command not found ~/go/src/github.com/tworks55/go-server-server $ go run main.go go/routers.go:18:2: cannot find package &amp;#34;github.</description>
     </item>
     
   </channel>
